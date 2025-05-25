@@ -6,4 +6,4 @@ let age = 12
 let bike = null;
 isloggedin = true;
 
-console.log(typeof null, true);
+console.log(typeof (isloggedin));
